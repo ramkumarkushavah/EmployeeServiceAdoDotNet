@@ -1,0 +1,9 @@
+c:\users\bizruntime5\documents\visual studio 2015\Projects\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+c:\users\bizruntime5\documents\visual studio 2015\Projects\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+c:\users\bizruntime5\documents\visual studio 2015\Projects\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+c:\users\bizruntime5\documents\visual studio 2015\Projects\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+c:\users\bizruntime5\documents\visual studio 2015\Projects\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bizruntime5\documents\visual studio 2015\Projects\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+c:\users\bizruntime5\documents\visual studio 2015\Projects\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\bizruntime5\documents\visual studio 2015\Projects\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+c:\users\bizruntime5\documents\visual studio 2015\Projects\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
