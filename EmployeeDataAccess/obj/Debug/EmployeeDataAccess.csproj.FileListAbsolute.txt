@@ -7,3 +7,12 @@ c:\users\bizruntime5\documents\visual studio 2015\Projects\EmployeeService\Emplo
 c:\users\bizruntime5\documents\visual studio 2015\Projects\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
 c:\users\bizruntime5\documents\visual studio 2015\Projects\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
 c:\users\bizruntime5\documents\visual studio 2015\Projects\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
+E:\2.C#\WebAPI\EmployeeServiceAdoDotNet\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+E:\2.C#\WebAPI\EmployeeServiceAdoDotNet\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+E:\2.C#\WebAPI\EmployeeServiceAdoDotNet\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+E:\2.C#\WebAPI\EmployeeServiceAdoDotNet\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+E:\2.C#\WebAPI\EmployeeServiceAdoDotNet\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\2.C#\WebAPI\EmployeeServiceAdoDotNet\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+E:\2.C#\WebAPI\EmployeeServiceAdoDotNet\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\2.C#\WebAPI\EmployeeServiceAdoDotNet\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+E:\2.C#\WebAPI\EmployeeServiceAdoDotNet\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
